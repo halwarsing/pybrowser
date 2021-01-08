@@ -1,2 +1,3 @@
 # pybrowser
- browser made in python
+you can start the browser with this command: 
+python main.py
